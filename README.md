@@ -372,5 +372,3 @@ class AdPage {
 #### 一些资源
 
 [Public APIs](https://github.com/HJMengx/public-apis)
-
-[代码地址](https://github.com/HJMengx/DogAndCat/)
